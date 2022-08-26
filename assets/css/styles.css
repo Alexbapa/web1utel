@@ -1,11 +1,11 @@
 @font-face {
   font-family: Intro;
-  src: url(./assets/fonts/IntroHeadRBase.otf);
+  src: url(/assets/fonts/IntroHeadRBase.otf);
 }
 
 @font-face {
   font-family: Helvetica;
-  src: url(./assets/fonts/HelveticaNeueCyr-Light.ttf);
+  src: url(/assets/fonts/HelveticaNeueCyr-Light.ttf);
 }
 
 body{
@@ -19,7 +19,7 @@ header{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
     grid-auto-rows: minmax(21vh, auto);
-    background-image: url(./assets/img/ELEMENTOS/Grupo63.jpg);
+    background-image: url(/assets/img/ELEMENTOS/Grupo63.jpg);
     background-position: center bottom;
     background-size: cover;
     padding: 0px;       
@@ -128,7 +128,7 @@ header{
 
 .barramaya{
     display: flex;
-    background-image: url(./assets/img/ELEMENTOS/Grupo%2061.png);
+    background-image: url(/assets/img/ELEMENTOS/Grupo%2061.png);
     background-size: ;
     background-repeat: repeat-x;
     height: 100px;
@@ -215,7 +215,7 @@ header{
     width: 496px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
-    background-image: url(./assets/img/ELEMENTOS/descarga.jpg);
+    background-image: url(/assets/img/ELEMENTOS/descarga.jpg);
 }
 
 .imgcard2{
@@ -227,7 +227,7 @@ header{
     width: 496px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
-    background-image: url(./assets/img/ELEMENTOS/tepoz.jpg);
+    background-image: url(/assets/img/ELEMENTOS/tepoz.jpg);
 }
 
 .imgcard3{
@@ -239,7 +239,7 @@ header{
     width: 496px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
-    background-image: url(./assets/img/ELEMENTOS/Teques.jpg);
+    background-image: url(/assets/img/ELEMENTOS/Teques.jpg);
 }
 
 .imgcard4{
@@ -251,7 +251,7 @@ header{
     width: 496px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
-    background-image: url(./assets/img/ELEMENTOS/Xochicalco.jpg);
+    background-image: url(/assets/img/ELEMENTOS/Xochicalco.jpg);
 }
 
 
@@ -459,7 +459,7 @@ header{
 
 .fondo2v{
     width: 100%;
-       background-image: url(./assets/img/ELEMENTOS/Grupo%2061.png), linear-gradient(to right, #E8E8E8, #E8E8E8);
+       background-image: url(/assets/img/ELEMENTOS/Grupo%2061.png), linear-gradient(to right, #E8E8E8, #E8E8E8);
     background-repeat: repeat-x;
   z-index: 1;
     height: 150px;
