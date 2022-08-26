@@ -19,7 +19,7 @@ header{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
     grid-auto-rows: minmax(21vh, auto);
-    background-image: url(/assets/img/ELEMENTOS/Grupo63.jpg);
+    background-image: url(/assets/Grupo63.jpg);
     background-position: center bottom;
     background-size: cover;
     padding: 0px;       
